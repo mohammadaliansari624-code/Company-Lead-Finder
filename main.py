@@ -1,7 +1,7 @@
 import requests
 
 #Apolo.io api key is used.
-API = 'rCjEfQKkPwBKwDk3p_DA0g'
+API = '**************'
 #Clearbit is used to get the domain of the company.
 def company_domain(company_name):
     print(f"\n Your company name is {company_name}. Searching for domain...")
